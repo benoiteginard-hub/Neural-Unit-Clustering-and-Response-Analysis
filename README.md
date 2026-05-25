@@ -123,7 +123,7 @@ neural-unit-clustering-response-analysis/
 
 ### 1. Waveform-based clustering 
 
-- `notebooks/01_waveform_clustering.ipynb`
+- `01_waveform_clustering.ipynb`
 
 This notebook performs:
 
@@ -138,7 +138,7 @@ The purpose is to identify groups of neural units based on their electrophysiolo
 
 ### 2. Firing-rate response analysis 
 
-- `notebooks/02_response_analysis.ipynb`
+- `02_response_analysis.ipynb`
 
 This notebook performs:
 
