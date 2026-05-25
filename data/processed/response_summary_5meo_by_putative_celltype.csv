@@ -1,0 +1,7 @@
+cell_type,response_status,n_units,percentage
+Putative GABA Units,excited,2,1.8867924528301887
+Putative GABA Units,inhibited,64,60.37735849056604
+Putative GABA Units,no_change,40,37.735849056603776
+Putative GLUT Units,excited,18,7.43801652892562
+Putative GLUT Units,inhibited,137,56.611570247933884
+Putative GLUT Units,no_change,87,35.9504132231405

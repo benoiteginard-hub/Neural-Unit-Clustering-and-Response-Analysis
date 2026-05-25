@@ -1,0 +1,6 @@
+group,response_status,n_units,percentage
+Saline,excited,2,0.8298755186721992
+Saline,no_change,239,99.1701244813278
+5-Meo,excited,21,5.8171745152354575
+5-Meo,inhibited,205,56.78670360110804
+5-Meo,no_change,135,37.396121883656505
