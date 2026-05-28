@@ -185,11 +185,6 @@ PCA and K-Means clustering were used to explore structure in waveform-derived fe
 
 ![Waveform PCA and K-Means clustering](figures/figure_AB_waveforms_3d_pca_kmeans_panel.png)
 
-### 3D PCA visualization
-
-This figure shows the distribution of neural units in PCA space based on waveform-derived features.
-
-![3D PCA waveform clustering](figures/figure_A_waveforms_3d_pca_all_units.png)
 
 ### Response status by group
 
