@@ -32,6 +32,20 @@ Because the raw electrophysiological recordings are several hundred GB and are n
 
 The objective here is not to reproduce the raw signal-processing pipeline, but to show how processed scientific data can be cleaned, analyzed, visualized, and interpreted using Python.
 
+### Symposium Context
+
+This analysis is derived from a broader Master’s research project in computational neuroscience, focused on the acute effects of a single psychedelic injection on neural activity in the mouse anterior insular cortex.
+
+Part of this work was presented at the **12th Symposium of the Neurocentre Magendie** in April 2025, under the title:
+
+**Oscillatory activity in the anterior insular cortex of mice: acute effects of a single psychedelic injection**
+
+The symposium poster included the broader experimental context, electrophysiological recordings, time-frequency analysis, spectral power changes, spike-gamma coupling, waveform-based neuron classification, and firing-rate modulation analyses.
+
+The present repository focuses specifically on the reproducible Python analysis of processed single-unit data, including waveform-based clustering and firing-rate response classification.
+
+![Symposium poster overview](figures/thesis_figures/symposium_poster_overview.png)
+
 ---
 
 ## Data
@@ -109,7 +123,7 @@ neural-unit-clustering-response-analysis/
 │       └── unit_waveform_clusters.csv
 │
 └── figures/
-    ├── thesis_figures/
+    ├── project_banner_python_ephys.png
     ├── figure_A_waveforms_3d_pca_all_units.png
     ├── figure_AB_waveforms_3d_pca_kmeans_panel.png
     ├── figure_B_waveforms_3d_pca_kmeans_clusters.png
@@ -117,7 +131,14 @@ neural-unit-clustering-response-analysis/
     ├── response_status_pie_by_group.png
     ├── response_status_pie_by_putative_celltype.png
     ├── zscore_distribution_violin_by_group.png
-    └── interactive_3d_pca_waveform_clusters.html
+    ├── interactive_3d_pca_waveform_clusters.html
+    │
+    └── thesis_figures/
+        ├── Figures_5.pdf
+        ├── Figures_5_Page_1.png
+        ├── Figures_5_Page_2.png
+        ├── symposium_poster_overview.png
+        └── symposium_presentation.pdf
 ```
 
 
@@ -197,6 +218,7 @@ The response analysis compares the proportion of excited, inhibited and unchange
 Z-score distributions summarize firing-rate modulation after the experimental event.
 
 ![Z-score distribution by group](figures/zscore_distribution_violin_by_group.png)
+
 
 
 ## Methods
