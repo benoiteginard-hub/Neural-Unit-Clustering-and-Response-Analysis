@@ -185,23 +185,17 @@ PCA and K-Means clustering were used to explore structure in waveform-derived fe
 
 ![Waveform PCA and K-Means clustering](figures/figure_AB_waveforms_3d_pca_kmeans_panel.png)
 
-### 3D PCA visualization
-
-This figure shows the distribution of neural units in PCA space based on waveform-derived features.
-
-![3D PCA waveform clustering](figures/figure_A_waveforms_3d_pca_all_units.png)
 
 ### Response status by group
 
 The response analysis compares the proportion of excited, inhibited and unchanged units between experimental groups.
 
-![Response status by group](figures/response_status_pie_by_group.png)
+
 
 ### Z-score distribution by group
 
 Z-score distributions summarize firing-rate modulation after the experimental event.
 
-![Z-score distribution by group](figures/zscore_distribution_violin_by_group.png)
 
 ## Methods
 
