@@ -35,7 +35,7 @@ The objective here is not to reproduce the raw signal-processing pipeline, but t
 ### Symposium Context
 
 This analysis is derived from a broader Master’s research project in computational neuroscience, focused on the acute effects of a single psychedelic injection on neural activity in the mouse anterior insular cortex.
-The full Master’s thesis **Acute impact of a psychedelic injection on neural oscillations in the mouse insular cortex**  associated with this research project is also available in the `figures/thesis_figures/` folder:
+The full Master’s thesis **" Acute impact of a psychedelic injection on neural oscillations in the mouse insular cortex "**  associated with this research project is also available in the `figures/thesis_figures/` folder:
 
 [Open full Master’s thesis](figures/thesis_figures/master_thesis.pdf)
 Part of this work was presented at the **12th Symposium of the Neurocentre Magendie** in April 2025, under the title:
